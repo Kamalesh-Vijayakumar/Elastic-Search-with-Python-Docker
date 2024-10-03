@@ -1,0 +1,16 @@
+# Backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+data/Employee_Sample_Data_1.csv
+
+# Node.js/Frontend
+node_modules/
+build/
+
+# General
+*.log
+.DS_Store
+.env
