@@ -78,23 +78,9 @@ Ensure the .env file in the backend directory is configured correctly:
 
 <br>
 env
-Copy code
-ELASTICSEARCH_HOST=elasticsearch
-ELASTICSEARCH_PORT=9200
-EMPLOYEE_DATA_FILE=/data/Employee_Sample_Data_1.csv
-Contributing
+<br>
+Copy code :
+<br>
+ELASTICSEARCH_HOST=elasticsearch ,ELASTICSEARCH_PORT=9200 <br>
+EMPLOYEE_DATA_FILE=/data/Employee_Sample_Data_1.csv <br>
 Contributions are welcome! Please fork the repository and open a pull request with your changes.
-
-License
-This project is open-sourced under the MIT license.
-
-vbnet
-Copy code
-
-## Additional Notes
-
-- Replace "Accessing the Application" URLs with actual URLs if deployed on servers.
-- Replace "APIs" section with actual endpoints if different.
-- Ensure to test the instructions and commands to make sure they work as expected.
-
-This README is intended to be comprehensive and user-friendly, but you might need to adjust
